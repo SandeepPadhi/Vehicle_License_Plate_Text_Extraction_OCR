@@ -253,12 +253,12 @@ def OCR_Analyser(path,imageno):
     image=get_grayscale(image)
     avgthresh=findavg(image)
 
-    cv2.imshow('GrayScale:'+str(imageno),image)
+    cv2.imshow('1-GrayScale:'+str(imageno),image)
     cv2.waitKey(0)
 
     imagethresh=thresholding(image,avgthresh)
     imagethresh=opening(imagethresh)
-    cv2.imshow('Threshold:'+str(imageno),imagethresh)
+    cv2.imshow('2-Threshold:'+str(imageno),imagethresh)
     cv2.waitKey(0)
     c=image
     contours, hierarchy = cv2.findContours(imagethresh.copy(),cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
@@ -277,7 +277,7 @@ def OCR_Analyser(path,imageno):
 
     c = max(contours, key = cv2.contourArea)
     cv2.drawContours(imageoriginal, c, -1, (0,255,0), 3)
-    cv2.imshow('Contours:'+str(imageno),imageoriginal)
+    cv2.imshow('3-Contours:'+str(imageno),imageoriginal)
     cv2.waitKey(0)
     
 
@@ -330,7 +330,7 @@ def OCR_Analyser(path,imageno):
     custom_config = r'--oem '+str(oem)+' --psm '+str(psm)+'-c tessedit_char_whitelist=012345679abcdefghijklmnopqrstuvwlyz tessedit_char_blacklist=.-!/'
     value = pytesseract.image_to_string(imageproc, lang='eng', config=custom_config)
     value=value.encode('ascii','ignore')
-    cv2.imshow('OCRImage:'+str(imageno),imageproc)
+    cv2.imshow('4 - OCRImage:'+str(imageno),imageproc)
     cv2.waitKey(0)
     value=value.split()
     finalresult=[]
