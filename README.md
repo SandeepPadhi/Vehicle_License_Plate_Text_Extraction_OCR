@@ -1,7 +1,6 @@
 # Vehicle-License-Plate-Text-Extraction_OCR
 
 
-
 '''
 Install following libraries in your system:
 cv2
@@ -14,6 +13,7 @@ os
 Abstract:
 The Project is Vehicle License Number Plate's Text Extraction System using Image Processing and Optical Character 
 (OCR).Image Processing is achieved using OpenCV.For OCR , Pytesseract (OCR engine supported by google) is used.
+
 
 For Tutorial on OCR using Pytesseract go the following tutorial:
 https://nanonets.com/blog/ocr-with-tesseract/
@@ -62,6 +62,9 @@ Ouput:
     2.Thresholded image
     3.Image showing contours drawn on original image
     4.Binary Image containing text on license plate
+    
+    
+    Output1.png and Output2.png in the project structure shows the output of the execution.
 
 
 
