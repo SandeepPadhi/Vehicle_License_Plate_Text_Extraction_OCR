@@ -1,5 +1,5 @@
-,track_id,,,image_path,,,lp,,,Train,,,Output,
-,./crop_m1/I00000.png,,,./crop_m1/I00000.png,,,9B52145,,0,,Sandeep,
+,track_id,,,image_path,,,lp,,,train,,,Output,
+,./crop_m1/I00000.png,,,./crop_m1/I00000.png,,,9B52145,,0,
 ,./crop_m1/I00000.png,,,./crop_h1/I00000.png,,,9B52145,,0,
 ,./crop_m1/I00001.png,,,./crop_m1/I00001.png,,,6B94558,,0,
 ,./crop_m1/I00001.png,,,./crop_h1/I00001.png,,,6B94558,,0,

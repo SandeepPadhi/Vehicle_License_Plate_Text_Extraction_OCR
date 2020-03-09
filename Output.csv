@@ -1,0 +1,653 @@
+,track_id,image_path,lp,train,Output
+0,./crop_m1/I00000.png,./crop_m1/I00000.png,9B52145,,BBS 2145
+1,./crop_m1/I00000.png,./crop_h1/I00000.png,9B52145,,NBS 2145
+2,./crop_m1/I00001.png,./crop_m1/I00001.png,6B94558,,6B9 4558
+3,./crop_m1/I00001.png,./crop_h1/I00001.png,6B94558,," i""5639 1.558 s. "
+4,./crop_m1/I00002.png,./crop_m1/I00002.png,8B90164,,BBS 0164
+5,./crop_m1/I00002.png,./crop_h1/I00002.png,8B90164,,3B9 9165
+6,./crop_m1/I00003.png,./crop_m1/I00003.png,5B11181,,5B1 1181
+7,./crop_m1/I00003.png,./crop_h1/I00003.png,5B11181,, 
+8,./crop_m1/I00004.png,./crop_m1/I00004.png,8B79697,,BB7 9697
+9,./crop_m1/I00004.png,./crop_h1/I00004.png,8B79697,,8B7 9897
+10,./crop_m1/I00005.png,./crop_m1/I00005.png,8B90164,,3B9 0164
+11,./crop_m1/I00005.png,./crop_h1/I00005.png,8B90164,,3B9 0164
+12,./crop_m1/I00006.png,./crop_m1/I00006.png,5B11181,,5B1 1181
+13,./crop_m1/I00006.png,./crop_h1/I00006.png,5B11181,, 
+14,./crop_m1/I00007.png,./crop_m1/I00007.png,5Z40181,,5Z4 0181
+15,./crop_m1/I00007.png,./crop_h1/I00007.png,5Z40181,,5Z4 0181
+16,./crop_m1/I00008.png,./crop_m1/I00008.png,2B20174,,ZBZ ~0174'
+17,./crop_m1/I00008.png,./crop_h1/I00008.png,2B20174,,ZBZ ~0174
+18,./crop_m1/I00009.png,./crop_m1/I00009.png,1B76462,,1B7 6462
+19,./crop_m1/I00009.png,./crop_h1/I00009.png,1B76462,,1B7 6452
+20,./crop_m1/I00010.png,./crop_m1/I00010.png,BVJ6411,,BVJ 64-11
+21,./crop_m1/I00010.png,./crop_h1/I00010.png,BVJ6411,, 
+22,./crop_m1/I00011.png,./crop_m1/I00011.png,8B79697,,8B7 9697
+23,./crop_m1/I00011.png,./crop_h1/I00011.png,8B79697,,8B7 0C02
+24,./crop_m1/I00012.png,./crop_m1/I00012.png,BVJ6411,,BVJ 54-11
+25,./crop_m1/I00012.png,./crop_h1/I00012.png,BVJ6411,,BVJ 64-11
+26,./crop_m1/I00013.png,./crop_m1/I00013.png,1B94686,,4B9 4686'
+27,./crop_m1/I00013.png,./crop_h1/I00013.png,1B94686,,1B9 4686
+28,./crop_m1/I00014.png,./crop_m1/I00014.png,4B83940,,4B8 3940
+29,./crop_m1/I00014.png,./crop_h1/I00014.png,4B83940,,4B8 3940
+30,./crop_m1/I00015.png,./crop_m1/I00015.png,4B83940,,4B8 3940
+31,./crop_m1/I00015.png,./crop_h1/I00015.png,4B83940,,4B8 3940
+32,./crop_m1/I00016.png,./crop_m1/I00016.png,4B27433,,4B2 7433
+33,./crop_m1/I00016.png,./crop_h1/I00016.png,4B27433,,4B2 7433'
+34,./crop_m1/I00017.png,./crop_m1/I00017.png,5B29737,,5B2 9737'
+35,./crop_m1/I00017.png,./crop_h1/I00017.png,5B29737,,5B2 9737';
+36,./crop_m1/I00018.png,./crop_m1/I00018.png,8B88391,,8B8 8391
+37,./crop_m1/I00018.png,./crop_h1/I00018.png,8B88391,,mg 8391
+38,./crop_m1/I00019.png,./crop_m1/I00019.png,5B28893,,5B2 8893
+39,./crop_m1/I00019.png,./crop_h1/I00019.png,5B28893,,5B2 8893
+40,./crop_m2/I00000.png,./crop_m2/I00000.png,5C48306,,504 8306
+41,./crop_m2/I00000.png,./crop_h2/I00000.png,5C48306,,EL 8305
+42,./crop_m2/I00001.png,./crop_m2/I00001.png,3B38140,,BB3 8140
+43,./crop_m2/I00001.png,./crop_h2/I00001.png,3B38140,,3B3 8140
+44,./crop_m2/I00002.png,./crop_m2/I00002.png,4B10036,,E 
+45,./crop_m2/I00002.png,./crop_h2/I00002.png,4B10036,, 
+46,./crop_m2/I00003.png,./crop_m2/I00003.png,1BD0673,,1B0 0573
+47,./crop_m2/I00003.png,./crop_h2/I00003.png,1BD0673,,a 
+48,./crop_m2/I00004.png,./crop_m2/I00004.png,4B50811,, 
+49,./crop_m2/I00004.png,./crop_h2/I00004.png,4B50811,,4B5 0811
+50,./crop_m2/I00005.png,./crop_m2/I00005.png,6B51255,,"5""? 1255"
+51,./crop_m2/I00005.png,./crop_h2/I00005.png,6B51255,," L685 "" 1255 "
+52,./crop_m2/I00006.png,./crop_m2/I00006.png,4B02466,, 
+53,./crop_m2/I00006.png,./crop_h2/I00006.png,4B02466,, 
+54,./crop_m2/I00007.png,./crop_m2/I00007.png,5C65578,, 
+55,./crop_m2/I00007.png,./crop_h2/I00007.png,5C65578,, 
+56,./crop_m2/I00008.png,./crop_m2/I00008.png,BZD1223,, 
+57,./crop_m2/I00008.png,./crop_h2/I00008.png,BZD1223,, 
+58,./crop_m2/I00009.png,./crop_m2/I00009.png,ZNE2393,, 
+59,./crop_m2/I00009.png,./crop_h2/I00009.png,ZNE2393,, 
+60,./crop_m2/I00010.png,./crop_m2/I00010.png,8B02173,,8B0 2173
+61,./crop_m2/I00010.png,./crop_h2/I00010.png,8B02173,,8B0 2173
+62,./crop_m2/I00011.png,./crop_m2/I00011.png,7B10307,, 
+63,./crop_m2/I00011.png,./crop_h2/I00011.png,7B10307,, 
+64,./crop_m2/I00012.png,./crop_m2/I00012.png,9B60464,, 
+65,./crop_m2/I00012.png,./crop_h2/I00012.png,9B60464,, 
+66,./crop_m2/I00013.png,./crop_m2/I00013.png,7B91102,,7B9 1102
+67,./crop_m2/I00013.png,./crop_h2/I00013.png,7B91102,, 
+68,./crop_m2/I00014.png,./crop_m2/I00014.png,1AT5828,,HT 582!
+69,./crop_m2/I00014.png,./crop_h2/I00014.png,1AT5828,, 
+70,./crop_m2/I00015.png,./crop_m2/I00015.png,7B14349,,7B1 4349
+71,./crop_m2/I00015.png,./crop_h2/I00015.png,7B14349,,7B1 4349
+72,./crop_m2/I00016.png,./crop_m2/I00016.png,4M98681,,m9 858'!
+73,./crop_m2/I00016.png,./crop_h2/I00016.png,4M98681,,me 8681
+74,./crop_m2/I00017.png,./crop_m2/I00017.png,2B17515,, 
+75,./crop_m2/I00017.png,./crop_h2/I00017.png,2B17515,, 
+76,./crop_m2/I00018.png,./crop_m2/I00018.png,BZH8389,, 
+77,./crop_m2/I00018.png,./crop_h2/I00018.png,BZH8389,, 
+78,./crop_m2/I00019.png,./crop_m2/I00019.png,9B38368,, B BBB BEES 
+79,./crop_m2/I00019.png,./crop_h2/I00019.png,9B38368,, 
+80,./crop_m2/I00020.png,./crop_m2/I00020.png,8B71401,,['1 19;
+81,./crop_m2/I00020.png,./crop_h2/I00020.png,8B71401,,47 1594
+82,./crop_m2/I00021.png,./crop_m2/I00021.png,4B20737,,4B2 0737
+83,./crop_m2/I00021.png,./crop_h2/I00021.png,4B20737,,4B2 0737
+84,./crop_m2/I00022.png,./crop_m2/I00022.png,3B04082,,3B0 4082
+85,./crop_m2/I00022.png,./crop_h2/I00022.png,3B04082,,3B0 4082
+86,./crop_m2/I00023.png,./crop_m2/I00023.png,1J24813,,1J2 4813
+87,./crop_m2/I00023.png,./crop_h2/I00023.png,1J24813,,HZ 4813
+88,./crop_m2/I00024.png,./crop_m2/I00024.png,1BC4146,,1B0 4146
+89,./crop_m2/I00024.png,./crop_h2/I00024.png,1BC4146,,1B0 4145
+90,./crop_m2/I00025.png,./crop_m2/I00025.png,5B77655,,5B7 7655
+91,./crop_m2/I00025.png,./crop_h2/I00025.png,5B77655,,5B7 7655
+92,./crop_m2/I00026.png,./crop_m2/I00026.png,6B67495,,6B6 7495
+93,./crop_m2/I00026.png,./crop_h2/I00026.png,6B67495,,6B6 7495
+94,./crop_m2/I00027.png,./crop_m2/I00027.png,BZP2087,,BZP 20-87
+95,./crop_m2/I00027.png,./crop_h2/I00027.png,BZP2087,,BZP 20'87
+96,./crop_m2/I00028.png,./crop_m2/I00028.png,5C93988,,":B"" 39:33"
+97,./crop_m2/I00028.png,./crop_h2/I00028.png,5C93988,,E 
+98,./crop_m2/I00029.png,./crop_m2/I00029.png,2B65055,,2B6 5055
+99,./crop_m2/I00029.png,./crop_h2/I00029.png,2B65055,,2B6 5055
+100,./crop_m2/I00030.png,./crop_m2/I00030.png,3AI0851,,HA! 0851
+101,./crop_m2/I00030.png,./crop_h2/I00030.png,3AI0851,, b.) A! 0851 
+102,./crop_m2/I00031.png,./crop_m2/I00031.png,2SE8601,, 23E . BEG! 
+103,./crop_m2/I00031.png,./crop_h2/I00031.png,2SE8601,, 
+104,./crop_m2/I00032.png,./crop_m2/I00032.png,7B11859,,7B1 1859
+105,./crop_m2/I00032.png,./crop_h2/I00032.png,7B11859,, i. 781 18591 
+106,./crop_m2/I00033.png,./crop_m2/I00033.png,3AI0851,,'B! 0857
+107,./crop_m2/I00033.png,./crop_h2/I00033.png,3AI0851,," ""HOE""!"
+108,./crop_m2/I00034.png,./crop_m2/I00034.png,8B23170,,a 
+109,./crop_m2/I00034.png,./crop_h2/I00034.png,8B23170,, 
+110,./crop_m2/I00035.png,./crop_m2/I00035.png,9B84391,,BBB 4391
+111,./crop_m2/I00035.png,./crop_h2/I00035.png,9B84391,, 
+112,./crop_m2/I00036.png,./crop_m2/I00036.png,2B13579,,2B1 3579
+113,./crop_m2/I00036.png,./crop_h2/I00036.png,2B13579,, 281 3579 r' 
+114,./crop_m2/I00037.png,./crop_m2/I00037.png,5B08436,,5B0 8436
+115,./crop_m2/I00037.png,./crop_h2/I00037.png,5B08436,,5B0 8436
+116,./crop_m2/I00038.png,./crop_m2/I00038.png,4AF9553,,M 
+117,./crop_m2/I00038.png,./crop_h2/I00038.png,4AF9553,,' 
+118,./crop_m2/I00039.png,./crop_m2/I00039.png,2B52739,,2B5 2739
+119,./crop_m2/I00039.png,./crop_h2/I00039.png,2B52739,,2B5 2739
+120,./crop_m2/I00040.png,./crop_m2/I00040.png,7B00844,,I 
+121,./crop_m2/I00040.png,./crop_h2/I00040.png,7B00844,,7B0 0844
+122,./crop_m2/I00041.png,./crop_m2/I00041.png,6B68384,, 
+123,./crop_m2/I00041.png,./crop_h2/I00041.png,6B68384,, 
+124,./crop_m2/I00042.png,./crop_m2/I00042.png,7B15714,,7 
+125,./crop_m2/I00042.png,./crop_h2/I00042.png,7B15714,,7 
+126,./crop_m2/I00043.png,./crop_m2/I00043.png,7B29430,,7B2 9430
+127,./crop_m2/I00043.png,./crop_h2/I00043.png,7B29430,,7B2 9430
+128,./crop_m2/I00044.png,./crop_m2/I00044.png,7B61623,,7B6 1623
+129,./crop_m2/I00044.png,./crop_h2/I00044.png,7B61623,, ! 786 1623. 
+130,./crop_m2/I00045.png,./crop_m2/I00045.png,2B89928,,7B% (7WE
+131,./crop_m2/I00045.png,./crop_h2/I00045.png,2B89928,, 
+132,./crop_m2/I00046.png,./crop_m2/I00046.png,6B67033,,5 
+133,./crop_m2/I00046.png,./crop_h2/I00046.png,6B67033,,6B6 7033
+134,./crop_m2/I00047.png,./crop_m2/I00047.png,9B84759,,3B* 575!
+135,./crop_m2/I00047.png,./crop_h2/I00047.png,9B84759,,"L? ""-57532"
+136,./crop_m2/I00048.png,./crop_m2/I00048.png,1BB8851,,1 
+137,./crop_m2/I00048.png,./crop_h2/I00048.png,1BB8851,, E. 138 88577 I 
+138,./crop_m2/I00049.png,./crop_m2/I00049.png,6B50430,,5 
+139,./crop_m2/I00049.png,./crop_h2/I00049.png,6B50430,,6B5 0430
+140,./crop_m2/I00050.png,./crop_m2/I00050.png,6B00320,,5B0 0320-
+141,./crop_m2/I00050.png,./crop_h2/I00050.png,6B00320,,6B0 0320
+142,./crop_m2/I00051.png,./crop_m2/I00051.png,4B45969,,4B4 5969
+143,./crop_m2/I00051.png,./crop_h2/I00051.png,4B45969,,BL 5969
+144,./crop_m2/I00052.png,./crop_m2/I00052.png,7B58307,,'7 7875;3307
+145,./crop_m2/I00052.png,./crop_h2/I00052.png,7B58307,,a 
+146,./crop_m2/I00053.png,./crop_m2/I00053.png,BZC4939,,BZC 49'39'
+147,./crop_m2/I00053.png,./crop_h2/I00053.png,BZC4939,,BZC 49-39-
+148,./crop_m2/I00054.png,./crop_m2/I00054.png,1BB6338,, 
+149,./crop_m2/I00054.png,./crop_h2/I00054.png,1BB6338,, 
+150,./crop_m2/I00055.png,./crop_m2/I00055.png,1BA0888,,1BA 0888
+151,./crop_m2/I00055.png,./crop_h2/I00055.png,1BA0888,,MBA 0888
+152,./crop_m2/I00056.png,./crop_m2/I00056.png,9B49365,,9B4 3355
+153,./crop_m2/I00056.png,./crop_h2/I00056.png,9B49365,,WBL 9365
+154,./crop_m2/I00057.png,./crop_m2/I00057.png,6B26050,,5B2 6050
+155,./crop_m2/I00057.png,./crop_h2/I00057.png,6B26050,,6B? 5ng
+156,./crop_m2/I00058.png,./crop_m2/I00058.png,8B64702,,8B6 4702
+157,./crop_m2/I00058.png,./crop_h2/I00058.png,8B64702,,8B6 4702
+158,./crop_m2/I00059.png,./crop_m2/I00059.png,3Z63187,,3Z6 3187
+159,./crop_m2/I00059.png,./crop_h2/I00059.png,3Z63187,,3Z8 3187
+160,./crop_m2/I00060.png,./crop_m2/I00060.png,4AZ3802,,AZ 3802
+161,./crop_m2/I00060.png,./crop_h2/I00060.png,4AZ3802,,AZ 3802
+162,./crop_m2/I00061.png,./crop_m2/I00061.png,7B57267,,7B5 7267
+163,./crop_m2/I00061.png,./crop_h2/I00061.png,7B57267,,7B5 7267
+164,./crop_m2/I00062.png,./crop_m2/I00062.png,2Z52689,,2Z5 2689
+165,./crop_m2/I00062.png,./crop_h2/I00062.png,2Z52689,, ; 225 2678; 
+166,./crop_m2/I00063.png,./crop_m2/I00063.png,6B88304,,6B8 3304
+167,./crop_m2/I00063.png,./crop_h2/I00063.png,6B88304,,6B8 88U4
+168,./crop_m2/I00064.png,./crop_m2/I00064.png,1.79769313486232E+308,, 
+169,./crop_m2/I00064.png,./crop_h2/I00064.png,1.79769313486232E+308,,4B0 2304
+170,./crop_m2/I00065.png,./crop_m2/I00065.png,7B40988,,7B! 0988
+171,./crop_m2/I00065.png,./crop_h2/I00065.png,7B40988,, 
+172,./crop_m2/I00066.png,./crop_m2/I00066.png,7B94261,,7B9 4261
+173,./crop_m2/I00066.png,./crop_h2/I00066.png,7B94261,,7B9 4261
+174,./crop_m2/I00067.png,./crop_m2/I00067.png,5B11149,, 5581 11 9 .__._.__. 
+175,./crop_m2/I00067.png,./crop_h2/I00067.png,5B11149,,5 
+176,./crop_m2/I00068.png,./crop_m2/I00068.png,2B74289,, 
+177,./crop_m2/I00068.png,./crop_h2/I00068.png,2B74289,," 313,7. :. 4,289 "
+178,./crop_m2/I00069.png,./crop_m2/I00069.png,9B64064,,QBB 4064
+179,./crop_m2/I00069.png,./crop_h2/I00069.png,9B64064,,9B6 4064
+180,./crop_m2/I00070.png,./crop_m2/I00070.png,1B85815,,1B8 5815
+181,./crop_m2/I00070.png,./crop_h2/I00070.png,1B85815,,1B8 5815
+182,./crop_m2/I00071.png,./crop_m2/I00071.png,7B98453,,7B9 8453
+183,./crop_m2/I00071.png,./crop_h2/I00071.png,7B98453,,7BQ 8453
+184,./crop_m2/I00072.png,./crop_m2/I00072.png,9B59729,,9B5 9729
+185,./crop_m2/I00072.png,./crop_h2/I00072.png,9B59729,,1B5 1231
+186,./crop_m2/I00073.png,./crop_m2/I00073.png,5B11149,,5B1 1149
+187,./crop_m2/I00073.png,./crop_h2/I00073.png,5B11149,, 
+188,./crop_m2/I00074.png,./crop_m2/I00074.png,5B11300,,5B1 3392
+189,./crop_m2/I00074.png,./crop_h2/I00074.png,5B11300,,5B1 1300
+190,./crop_m2/I00075.png,./crop_m2/I00075.png,1BA3428,,MBA 3428
+191,./crop_m2/I00075.png,./crop_h2/I00075.png,1BA3428,,1BA 3428
+192,./crop_m2/I00076.png,./crop_m2/I00076.png,1BD0679,,1B0 0679
+193,./crop_m2/I00076.png,./crop_h2/I00076.png,1BD0679,,1B0 0523
+194,./crop_m2/I00077.png,./crop_m2/I00077.png,5B82908,,5B8 2908
+195,./crop_m2/I00077.png,./crop_h2/I00077.png,5B82908,,5B? 2305
+196,./crop_m3/I00000.png,./crop_m3/I00000.png,1.79769313486232E+308,,4B0 2304
+197,./crop_m3/I00000.png,./crop_h3/I00000.png,1.79769313486232E+308,, 
+198,./crop_m3/I00001.png,./crop_m3/I00001.png,9B43104,,9B4 #3104
+199,./crop_m3/I00001.png,./crop_h3/I00001.png,9B43104,,9B4 3104
+200,./crop_m3/I00002.png,./crop_m3/I00002.png,BZL4085,,BZL 40-85
+201,./crop_m3/I00002.png,./crop_h3/I00002.png,BZL4085,,BZL 40-85
+202,./crop_m3/I00003.png,./crop_m3/I00003.png,7B14095,,7B1 4095
+203,./crop_m3/I00003.png,./crop_h3/I00003.png,7B14095,,UB1 4095
+204,./crop_m3/I00004.png,./crop_m3/I00004.png,1BA2905,,BA 2905
+205,./crop_m3/I00004.png,./crop_h3/I00004.png,1BA2905,, 1 18A 2905 
+206,./crop_m3/I00005.png,./crop_m3/I00005.png,6C71390,,6C7 1390
+207,./crop_m3/I00005.png,./crop_h3/I00005.png,6C71390,,5C7 1390
+208,./crop_m3/I00006.png,./crop_m3/I00006.png,8B46851,,8B4 6851
+209,./crop_m3/I00006.png,./crop_h3/I00006.png,8B46851,,8B4 6851
+210,./crop_m3/I00007.png,./crop_m3/I00007.png,6B45495,,BBL 5495
+211,./crop_m3/I00007.png,./crop_h3/I00007.png,6B45495,,BBL 5495
+212,./crop_m3/I00008.png,./crop_m3/I00008.png,4B82840,,4B8 2840
+213,./crop_m3/I00008.png,./crop_h3/I00008.png,4B82840,, g 488 2849 
+214,./crop_m3/I00009.png,./crop_m3/I00009.png,4M34462,,MM 4462
+215,./crop_m3/I00009.png,./crop_h3/I00009.png,4M34462,,MM 4462
+216,./crop_m3/I00010.png,./crop_m3/I00010.png,6M04291,,gem am
+217,./crop_m3/I00010.png,./crop_h3/I00010.png,6M04291,,BHO 429
+218,./crop_m3/I00011.png,./crop_m3/I00011.png,5B05531,, 59 5531 -L 
+219,./crop_m3/I00011.png,./crop_h3/I00011.png,5B05531,,i 
+220,./crop_m3/I00012.png,./crop_m3/I00012.png,5Z15057,,5Z1 5057
+221,./crop_m3/I00012.png,./crop_h3/I00012.png,5Z15057,,5Z1 5057
+222,./crop_m3/I00013.png,./crop_m3/I00013.png,4Z42407,,"5Z4 2407,"
+223,./crop_m3/I00013.png,./crop_h3/I00013.png,4Z42407,,5Z4 2407*
+224,./crop_m3/I00014.png,./crop_m3/I00014.png,3S86899,,3B8 6899
+225,./crop_m3/I00014.png,./crop_h3/I00014.png,3S86899,,3B8 6899
+226,./crop_m3/I00015.png,./crop_m3/I00015.png,9B33297,,9B3 3297
+227,./crop_m3/I00015.png,./crop_h3/I00015.png,9B33297,,3B3 3297
+228,./crop_m3/I00016.png,./crop_m3/I00016.png,7B66657,,7B6 6657
+229,./crop_m3/I00016.png,./crop_h3/I00016.png,7B66657,,7B6 6657
+230,./crop_m3/I00017.png,./crop_m3/I00017.png,7B27254,,7B2 7254
+231,./crop_m3/I00017.png,./crop_h3/I00017.png,7B27254,,"5}, 7254"
+232,./crop_m3/I00018.png,./crop_m3/I00018.png,4AX9660,,MAX 9660
+233,./crop_m3/I00018.png,./crop_h3/I00018.png,4AX9660,, 
+234,./crop_m3/I00019.png,./crop_m3/I00019.png,3B60372,,3B6 0372
+235,./crop_m3/I00019.png,./crop_h3/I00019.png,3B60372,,3B5 0372
+236,./crop_m3/I00020.png,./crop_m3/I00020.png,1B61178,,1 
+237,./crop_m3/I00020.png,./crop_h3/I00020.png,1B61178,,3 
+238,./crop_m3/I00021.png,./crop_m3/I00021.png,9B88363,,9B3 8363
+239,./crop_m3/I00021.png,./crop_h3/I00021.png,9B88363,,9 
+240,./crop_m3/I00022.png,./crop_m3/I00022.png,7B12151,, 
+241,./crop_m3/I00022.png,./crop_h3/I00022.png,7B12151,, 
+242,./crop_m3/I00023.png,./crop_m3/I00023.png,7B12151,,7 
+243,./crop_m3/I00023.png,./crop_h3/I00023.png,7B12151,, 
+244,./crop_m3/I00024.png,./crop_m3/I00024.png,9B30130,,9B3 013
+245,./crop_m3/I00024.png,./crop_h3/I00024.png,9B30130,, H I! (D (L) L? 
+246,./crop_m3/I00025.png,./crop_m3/I00025.png,9B30130,,9B3 0130
+247,./crop_m3/I00025.png,./crop_h3/I00025.png,9B30130,, _ 953 01307 
+248,./crop_m3/I00026.png,./crop_m3/I00026.png,1BA1114,,1BA 1114
+249,./crop_m3/I00026.png,./crop_h3/I00026.png,1BA1114,,1BA 1114
+250,./crop_m3/I00027.png,./crop_m3/I00027.png,9B88363,,9B8 8363
+251,./crop_m3/I00027.png,./crop_h3/I00027.png,9B88363,, IL] I}; II 
+252,./crop_m3/I00028.png,./crop_m3/I00028.png,5B06256,,5B0 6256
+253,./crop_m3/I00028.png,./crop_h3/I00028.png,5B06256,,5B0 6256
+254,./crop_m3/I00029.png,./crop_m3/I00029.png,1BA1114,,BA 1114
+255,./crop_m3/I00029.png,./crop_h3/I00029.png,1BA1114,,m 
+256,./crop_m3/I00030.png,./crop_m3/I00030.png,9B30034,,9B3 0034
+257,./crop_m3/I00030.png,./crop_h3/I00030.png,9B30034,, a 1 13331333333! E 983 0031. 
+258,./crop_m3/I00031.png,./crop_m3/I00031.png,5B20773,,5B2 0773
+259,./crop_m3/I00031.png,./crop_h3/I00031.png,5B20773,, 582 D7 73 
+260,./crop_m3/I00032.png,./crop_m3/I00032.png,8B26229,,8B2 6229
+261,./crop_m3/I00032.png,./crop_h3/I00032.png,8B26229,,8B2 6ng
+262,./crop_m3/I00033.png,./crop_m3/I00033.png,1B37208,,873 7208
+263,./crop_m3/I00033.png,./crop_h3/I00033.png,1B37208,,"1B? 720,31"
+264,./crop_m3/I00034.png,./crop_m3/I00034.png,2Z52689,,2Z5 2689
+265,./crop_m3/I00034.png,./crop_h3/I00034.png,2Z52689,,2Z5 2689
+266,./crop_m3/I00035.png,./crop_m3/I00035.png,2B46175,,' 
+267,./crop_m3/I00035.png,./crop_h3/I00035.png,2B46175,,2 
+268,./crop_m3/I00036.png,./crop_m3/I00036.png,7B63766,,7B6 Cifj
+269,./crop_m3/I00036.png,./crop_h3/I00036.png,7B63766,,UB6 31%
+270,./crop_m3/I00037.png,./crop_m3/I00037.png,B0L3403,,BOL 34-03
+271,./crop_m3/I00037.png,./crop_h3/I00037.png,B0L3403,, BBL 34 Q3 I 
+272,./crop_m3/I00038.png,./crop_m3/I00038.png,2B57127,,2B5 7127
+273,./crop_m3/I00038.png,./crop_h3/I00038.png,2B57127,, 
+274,./crop_m3/I00039.png,./crop_m3/I00039.png,1BC6703,,"1BB ""8703"
+275,./crop_m3/I00039.png,./crop_h3/I00039.png,1BC6703,, 1th 67 03 
+276,./crop_m3/I00040.png,./crop_m3/I00040.png,7B11607,,7M 1507
+277,./crop_m3/I00040.png,./crop_h3/I00040.png,7B11607,,7B1 \8D'I
+278,./crop_m3/I00041.png,./crop_m3/I00041.png,4B07003,,4B0 7003-
+279,./crop_m3/I00041.png,./crop_h3/I00041.png,4B07003,,BC) 7003
+280,./crop_m3/I00042.png,./crop_m3/I00042.png,8B53308,,BBS 3308
+281,./crop_m3/I00042.png,./crop_h3/I00042.png,8B53308,,BBS 3308
+282,./crop_m3/I00043.png,./crop_m3/I00043.png,9B13973,,9B1 3973
+283,./crop_m3/I00043.png,./crop_h3/I00043.png,9B13973,,9B1 3973
+284,./crop_m3/I00044.png,./crop_m3/I00044.png,5B57928,,5B5 7928
+285,./crop_m3/I00044.png,./crop_h3/I00044.png,5B57928,,5B5 7928
+286,./crop_m3/I00045.png,./crop_m3/I00045.png,5B99527,,"5B9 9527,,"
+287,./crop_m3/I00045.png,./crop_h3/I00045.png,5B99527,,5B9 9522;
+288,./crop_m3/I00046.png,./crop_m3/I00046.png,9B83305,,""" "
+289,./crop_m3/I00046.png,./crop_h3/I00046.png,9B83305,, V . A - - 
+290,./crop_m3/I00047.png,./crop_m3/I00047.png,3SA6413,,3BA 6413
+291,./crop_m3/I00047.png,./crop_h3/I00047.png,3SA6413,,3B4 6413
+292,./crop_m3/I00048.png,./crop_m3/I00048.png,4AF9553,,EMF 9553
+293,./crop_m3/I00048.png,./crop_h3/I00048.png,4AF9553,,"J"" 9553"
+294,./crop_m3/I00049.png,./crop_m3/I00049.png,1Z35206,,1Z3 5206
+295,./crop_m3/I00049.png,./crop_h3/I00049.png,1Z35206,,1Z3 5206
+296,./crop_m3/I00050.png,./crop_m3/I00050.png,8B41958,,BB4 1958
+297,./crop_m3/I00050.png,./crop_h3/I00050.png,8B41958,,8B4 1958
+298,./crop_m3/I00051.png,./crop_m3/I00051.png,3Z63187,,3Z6 3187
+299,./crop_m3/I00051.png,./crop_h3/I00051.png,3Z63187,,3Z6 3187
+300,./crop_m3/I00052.png,./crop_m3/I00052.png,2SZ4642,,2B2 4642
+301,./crop_m3/I00052.png,./crop_h3/I00052.png,2SZ4642,, I- 282 1.61.21 
+302,./crop_m3/I00053.png,./crop_m3/I00053.png,6B89358,,5B8 9358
+303,./crop_m3/I00053.png,./crop_h3/I00053.png,6B89358,,5B8 9358
+304,./crop_m3/I00054.png,./crop_m3/I00054.png,2B38280,,2B3 8280
+305,./crop_m3/I00054.png,./crop_h3/I00054.png,2B38280,,2B3 8280
+306,./crop_m3/I00055.png,./crop_m3/I00055.png,6B34859,,6B3 4859
+307,./crop_m3/I00055.png,./crop_h3/I00055.png,6B34859,,SB3 4859
+308,./crop_m3/I00056.png,./crop_m3/I00056.png,4B76148,,HB7 6148
+309,./crop_m3/I00056.png,./crop_h3/I00056.png,4B76148,, E. (.87 611.8- 
+310,./crop_m3/I00057.png,./crop_m3/I00057.png,8B81013,, 
+311,./crop_m3/I00057.png,./crop_h3/I00057.png,8B81013,, 
+312,./crop_m3/I00058.png,./crop_m3/I00058.png,7B88517,,7B8 8517
+313,./crop_m3/I00058.png,./crop_h3/I00058.png,7B88517,,7B8 8517
+314,./crop_m3/I00059.png,./crop_m3/I00059.png,1B27247,, ' 182 721.7 
+315,./crop_m3/I00059.png,./crop_h3/I00059.png,1B27247,, ' 182 7247 
+316,./crop_m3/I00060.png,./crop_m3/I00060.png,BZP6480,,BZF 5480
+317,./crop_m3/I00060.png,./crop_h3/I00060.png,BZP6480,, BZF ' 64-80 
+318,./crop_m3/I00061.png,./crop_m3/I00061.png,1BA8370,,1B! 57731
+319,./crop_m3/I00061.png,./crop_h3/I00061.png,1BA8370,," I 754 8.773, "
+320,./crop_m3/I00062.png,./crop_m3/I00062.png,BZP6480,,8Z? 64-80
+321,./crop_m3/I00062.png,./crop_h3/I00062.png,BZP6480,,8Z? 64-80
+322,./crop_m3/I00063.png,./crop_m3/I00063.png,5J04027,,5J0 4027
+323,./crop_m3/I00063.png,./crop_h3/I00063.png,5J04027,,5J0 4027
+324,./crop_m3/I00064.png,./crop_m3/I00064.png,7B65585,,7B6 5585
+325,./crop_m3/I00064.png,./crop_h3/I00064.png,7B65585,,7B6 5585
+326,./crop_m3/I00065.png,./crop_m3/I00065.png,9B91420,,9B9 1420
+327,./crop_m3/I00065.png,./crop_h3/I00065.png,9B91420,,QBQ 1420
+328,./crop_m3/I00066.png,./crop_m3/I00066.png,8B60552,,3B7 0552
+329,./crop_m3/I00066.png,./crop_h3/I00066.png,8B60552,, 
+330,./crop_m3/I00067.png,./crop_m3/I00067.png,5B38434,,5B3 8434
+331,./crop_m3/I00067.png,./crop_h3/I00067.png,5B38434,,5B3 8434
+332,./crop_m3/I00068.png,./crop_m3/I00068.png,7B44167,,7B4 74167
+333,./crop_m3/I00068.png,./crop_h3/I00068.png,7B44167,,7B4 4167
+334,./crop_m3/I00069.png,./crop_m3/I00069.png,3B41980,, 
+335,./crop_m3/I00069.png,./crop_h3/I00069.png,3B41980,,5 
+336,./crop_m3/I00070.png,./crop_m3/I00070.png,8B69588,,8B6 9588
+337,./crop_m3/I00070.png,./crop_h3/I00070.png,8B69588,,8B5 9588
+338,./crop_m3/I00071.png,./crop_m3/I00071.png,2AX4938,, 4938
+339,./crop_m3/I00071.png,./crop_h3/I00071.png,2AX4938,, 
+340,./crop_m3/I00072.png,./crop_m3/I00072.png,7B30135,,7B3 0135
+341,./crop_m3/I00072.png,./crop_h3/I00072.png,7B30135,,7B3 0135
+342,./crop_m3/I00073.png,./crop_m3/I00073.png,2AX4938,,ZAX 4938
+343,./crop_m3/I00073.png,./crop_h3/I00073.png,2AX4938,,ZAX 4938
+344,./crop_m3/I00074.png,./crop_m3/I00074.png,5B77379,,5 
+345,./crop_m3/I00074.png,./crop_h3/I00074.png,5B77379,,5 
+346,./crop_m3/I00075.png,./crop_m3/I00075.png,7B73485,,7B7 3485
+347,./crop_m3/I00075.png,./crop_h3/I00075.png,7B73485,,7B7 3485
+348,./crop_m3/I00076.png,./crop_m3/I00076.png,BZL3400,,BZL 34-00
+349,./crop_m3/I00076.png,./crop_h3/I00076.png,BZL3400,, 1 BZL 34-00 
+350,./crop_m3/I00077.png,./crop_m3/I00077.png,4B60620,,BS 0620
+351,./crop_m3/I00077.png,./crop_h3/I00077.png,4B60620,,4B6 0620
+352,./crop_m3/I00078.png,./crop_m3/I00078.png,3B09932,,3B0 9932
+353,./crop_m3/I00078.png,./crop_h3/I00078.png,3B09932,,3B0 9932
+354,./crop_m3/I00079.png,./crop_m3/I00079.png,8T77462,,817 7462
+355,./crop_m3/I00079.png,./crop_h3/I00079.png,8T77462,,8T7 7462i
+356,./crop_m3/I00080.png,./crop_m3/I00080.png,9T19202,,ST! 9202
+357,./crop_m3/I00080.png,./crop_h3/I00080.png,9T19202,,9T7 9202
+358,./crop_m3/I00081.png,./crop_m3/I00081.png,9B45193,,BBL 5193
+359,./crop_m3/I00081.png,./crop_h3/I00081.png,9B45193,,QBL 5193
+360,./crop_m3/I00082.png,./crop_m3/I00082.png,1B70230,, 7 187 0230 
+361,./crop_m3/I00082.png,./crop_h3/I00082.png,1B70230,,1B7 8230
+362,./crop_m3/I00083.png,./crop_m3/I00083.png,8B47318,,8B4 7318-
+363,./crop_m3/I00083.png,./crop_h3/I00083.png,8B47318,,8B4 7318
+364,./crop_m3/I00084.png,./crop_m3/I00084.png,1BI2138,,1B! 2138
+365,./crop_m3/I00084.png,./crop_h3/I00084.png,1BI2138,,1B! 2138
+366,./crop_m3/I00085.png,./crop_m3/I00085.png,7B46204,,7B4 6204
+367,./crop_m3/I00085.png,./crop_h3/I00085.png,7B46204,,7B4 52041
+368,./crop_m3/I00086.png,./crop_m3/I00086.png,5B23615,,5B2 3615
+369,./crop_m3/I00086.png,./crop_h3/I00086.png,5B23615,,SBZ 3615
+370,./crop_m3/I00087.png,./crop_m3/I00087.png,2B76686,,2B7 8686
+371,./crop_m3/I00087.png,./crop_h3/I00087.png,2B76686,,1B7 6686
+372,./crop_m3/I00088.png,./crop_m3/I00088.png,8B03653,,8B0 3553
+373,./crop_m3/I00088.png,./crop_h3/I00088.png,8B03653,,8B0 3653
+374,./crop_m3/I00089.png,./crop_m3/I00089.png,1.79769313486232E+308,,1E5 9706
+375,./crop_m3/I00089.png,./crop_h3/I00089.png,1.79769313486232E+308,,ES 9706
+376,./crop_m3/I00090.png,./crop_m3/I00090.png,1BB9110,,HEB 9110
+377,./crop_m3/I00090.png,./crop_h3/I00090.png,1BB9110,,1B8 9110
+378,./crop_m3/I00091.png,./crop_m3/I00091.png,5B24546,,5B2 4546
+379,./crop_m3/I00091.png,./crop_h3/I00091.png,5B24546,,SBZ 4546-
+380,./crop_m3/I00092.png,./crop_m3/I00092.png,9B29274,,9 
+381,./crop_m3/I00092.png,./crop_h3/I00092.png,9B29274,,9 
+382,./crop_m3/I00093.png,./crop_m3/I00093.png,9B13772,,BB1 3772
+383,./crop_m3/I00093.png,./crop_h3/I00093.png,9B13772,,3B1 3772
+384,./crop_m3/I00094.png,./crop_m3/I00094.png,8B77932,,EEJ TEST
+385,./crop_m3/I00094.png,./crop_h3/I00094.png,8B77932,, 
+386,./crop_m3/I00095.png,./crop_m3/I00095.png,2B97325,,2B9 7325
+387,./crop_m3/I00095.png,./crop_h3/I00095.png,2B97325,,2B9 7325
+388,./crop_m3/I00096.png,./crop_m3/I00096.png,7B76600,, 
+389,./crop_m3/I00096.png,./crop_h3/I00096.png,7B76600,,B 
+390,./crop_m3/I00097.png,./crop_m3/I00097.png,9B98777,,BBS 8777
+391,./crop_m3/I00097.png,./crop_h3/I00097.png,9B98777,,3B9 8777
+392,./crop_m3/I00098.png,./crop_m3/I00098.png,2B75836,, . LET 251? 
+393,./crop_m3/I00098.png,./crop_h3/I00098.png,2B75836,, 
+394,./crop_m3/I00099.png,./crop_m3/I00099.png,8B22920,,8B2 2920
+395,./crop_m3/I00099.png,./crop_h3/I00099.png,8B22920,,8B2 2920
+396,./crop_m3/I00100.png,./crop_m3/I00100.png,1B05002,, l 180 5002 
+397,./crop_m3/I00100.png,./crop_h3/I00100.png,1B05002,,1B0 5002
+398,./crop_m3/I00101.png,./crop_m3/I00101.png,7B31947,,IB3 1942
+399,./crop_m3/I00101.png,./crop_h3/I00101.png,7B31947,,?B3 1942
+400,./crop_m3/I00102.png,./crop_m3/I00102.png,9B14015,,MB? 4015
+401,./crop_m3/I00102.png,./crop_h3/I00102.png,9B14015,,9B1 4015
+402,./crop_m3/I00103.png,./crop_m3/I00103.png,BZL5685,,BZL 56-85
+403,./crop_m3/I00103.png,./crop_h3/I00103.png,BZL5685,,BZL 56-85
+404,./crop_m3/I00104.png,./crop_m3/I00104.png,1.79769313486232E+308,,I 
+405,./crop_m3/I00104.png,./crop_h3/I00104.png,1.79769313486232E+308,,ZEE 37175
+406,./crop_m3/I00105.png,./crop_m3/I00105.png,7B35438,,7B3 5438
+407,./crop_m3/I00105.png,./crop_h3/I00105.png,7B35438,,7B3 5438
+408,./crop_m3/I00106.png,./crop_m3/I00106.png,3K29729,,[Z 99729
+409,./crop_m3/I00106.png,./crop_h3/I00106.png,3K29729,, 'JR 2 9729 
+410,./crop_m3/I00107.png,./crop_m3/I00107.png,4B96914,,8B 69
+411,./crop_m3/I00107.png,./crop_h3/I00107.png,4B96914,,$9 69
+412,./crop_m3/I00108.png,./crop_m3/I00108.png,8B86266,,BBB 6266
+413,./crop_m3/I00108.png,./crop_h3/I00108.png,8B86266,,8B8 6266
+414,./crop_m3/I00109.png,./crop_m3/I00109.png,6B03119,,6B0 3119
+415,./crop_m3/I00109.png,./crop_h3/I00109.png,6B03119,,6B0 3119
+416,./crop_m3/I00110.png,./crop_m3/I00110.png,8B86266,,8B8 6256
+417,./crop_m3/I00110.png,./crop_h3/I00110.png,8B86266,, .t Ah. s a My Qu Aux; Kw I _ 
+418,./crop_m3/I00111.png,./crop_m3/I00111.png,7B34216,,[Q3 4216
+419,./crop_m3/I00111.png,./crop_h3/I00111.png,7B34216,,gas 4215
+420,./crop_m3/I00112.png,./crop_m3/I00112.png,8T84065,,8TB 4055
+421,./crop_m3/I00112.png,./crop_h3/I00112.png,8T84065,,BTB 4065
+422,./crop_m3/I00113.png,./crop_m3/I00113.png,4AC5710,, AM). 37 0 
+423,./crop_m3/I00113.png,./crop_h3/I00113.png,4AC5710,, AM. 57 \Q' 
+424,./crop_m3/I00114.png,./crop_m3/I00114.png,1BC1046,,1B0 1046
+425,./crop_m3/I00114.png,./crop_h3/I00114.png,1BC1046,,1BB W7S
+426,./crop_m3/I00115.png,./crop_m3/I00115.png,8B62184,, 
+427,./crop_m3/I00115.png,./crop_h3/I00115.png,8B62184,,8B6 218i
+428,./crop_m3/I00116.png,./crop_m3/I00116.png,3B60854,,3B8 0854
+429,./crop_m3/I00116.png,./crop_h3/I00116.png,3B60854,,BBB 0857
+430,./crop_m3/I00117.png,./crop_m3/I00117.png,4B64261,,86 4282
+431,./crop_m3/I00117.png,./crop_h3/I00117.png,4B64261,,HBB 4251-
+432,./crop_m3/I00118.png,./crop_m3/I00118.png,4B86157,,LB5 5157
+433,./crop_m3/I00118.png,./crop_h3/I00118.png,4B86157,,LBB 8157
+434,./crop_m3/I00119.png,./crop_m3/I00119.png,4B82295,,4B8 '2295
+435,./crop_m3/I00119.png,./crop_h3/I00119.png,4B82295,,4B8 2295
+436,./crop_m3/I00120.png,./crop_m3/I00120.png,4B22781,,4B2 2781
+437,./crop_m3/I00120.png,./crop_h3/I00120.png,4B22781,,4B2 2731
+438,./crop_m3/I00121.png,./crop_m3/I00121.png,7B72729,,7B7 2729
+439,./crop_m3/I00121.png,./crop_h3/I00121.png,7B72729,,NW 2729
+440,./crop_m3/I00122.png,./crop_m3/I00122.png,BMZ3933,,112 39-33!
+441,./crop_m3/I00122.png,./crop_h3/I00122.png,BMZ3933,,"MZ' ""39-33'"
+442,./crop_m3/I00123.png,./crop_m3/I00123.png,BZB1922,, PBZ B 19-22 
+443,./crop_m3/I00123.png,./crop_h3/I00123.png,BZB1922,,BZB 19-22
+444,./crop_m3/I00124.png,./crop_m3/I00124.png,2M25948,,2M2 5948
+445,./crop_m3/I00124.png,./crop_h3/I00124.png,2M25948,,_M2 5948
+446,./crop_m3/I00125.png,./crop_m3/I00125.png,7B30788,,7BB 0788
+447,./crop_m3/I00125.png,./crop_h3/I00125.png,7B30788,,7B3 0788
+448,./crop_m3/I00126.png,./crop_m3/I00126.png,7B90990,, 789 3. 0990' 
+449,./crop_m3/I00126.png,./crop_h3/I00126.png,7B90990,,89- 0990
+450,./crop_m3/I00127.png,./crop_m3/I00127.png,6B70990,,6B7 0990
+451,./crop_m3/I00127.png,./crop_h3/I00127.png,6B70990,,SB7 0990
+452,./crop_m3/I00128.png,./crop_m3/I00128.png,7B75285,,7B7 5285
+453,./crop_m3/I00128.png,./crop_h3/I00128.png,7B75285,,7B7 5285
+454,./crop_m3/I00129.png,./crop_m3/I00129.png,3B25229,,3B2 5229
+455,./crop_m3/I00129.png,./crop_h3/I00129.png,3B25229,,3B2 5229
+456,./crop_m3/I00130.png,./crop_m3/I00130.png,7B59066,,7B5 9066
+457,./crop_m3/I00130.png,./crop_h3/I00130.png,7B59066,,7B5 9066
+458,./crop_m3/I00131.png,./crop_m3/I00131.png,7B14095,, 719 7 4095 
+459,./crop_m3/I00131.png,./crop_h3/I00131.png,7B14095,, 75 7 4095 
+460,./crop_m3/I00132.png,./crop_m3/I00132.png,7B89545,,7B8 9545
+461,./crop_m3/I00132.png,./crop_h3/I00132.png,7B89545,,7B8 9545
+462,./crop_m3/I00133.png,./crop_m3/I00133.png,8B66512,,8B6 6512
+463,./crop_m3/I00133.png,./crop_h3/I00133.png,8B66512,,8B6 6512
+464,./crop_m3/I00134.png,./crop_m3/I00134.png,1BB7325,,BB 7325
+465,./crop_m3/I00134.png,./crop_h3/I00134.png,1BB7325,, l 188 7325 
+466,./crop_m3/I00135.png,./crop_m3/I00135.png,2B73768,, 237 37 BB 
+467,./crop_m3/I00135.png,./crop_h3/I00135.png,2B73768,, R? '37 68 
+468,./crop_m3/I00136.png,./crop_m3/I00136.png,6B24616,,BB7 4516
+469,./crop_m3/I00136.png,./crop_h3/I00136.png,6B24616,,6B2 4818
+470,./crop_m3/I00137.png,./crop_m3/I00137.png,5B26675,,5B2 6675
+471,./crop_m3/I00137.png,./crop_h3/I00137.png,5B26675,,5B2 6675
+472,./crop_m3/I00138.png,./crop_m3/I00138.png,7B78280,,7B7 8280
+473,./crop_m3/I00138.png,./crop_h3/I00138.png,7B78280,,7B7 8280
+474,./crop_m3/I00139.png,./crop_m3/I00139.png,5H68504,,SHE 8504
+475,./crop_m3/I00139.png,./crop_h3/I00139.png,5H68504,,SHB 8504
+476,./crop_m3/I00140.png,./crop_m3/I00140.png,9B86906,,SBB 6906
+477,./crop_m3/I00140.png,./crop_h3/I00140.png,9B86906,,QB8 6906
+478,./crop_m4/I00000.png,./crop_m4/I00000.png,4M26776,,"mZ _,;_67_75_"
+479,./crop_m4/I00000.png,./crop_h4/I00000.png,4M26776,, 
+480,./crop_m4/I00001.png,./crop_m4/I00001.png,1B49951,, ' \EL 935V 
+481,./crop_m4/I00001.png,./crop_h4/I00001.png,1B49951,, - BL SSSN ' 
+482,./crop_m4/I00002.png,./crop_m4/I00002.png,8B91698,,8B9 1698
+483,./crop_m4/I00002.png,./crop_h4/I00002.png,8B91698,,8B9 1698
+484,./crop_m4/I00003.png,./crop_m4/I00003.png,1BC5138,,1B6 5131
+485,./crop_m4/I00003.png,./crop_h4/I00003.png,1BC5138,,1B6 5138
+486,./crop_m4/I00004.png,./crop_m4/I00004.png,8T43418,, 3814 34 Q1; 
+487,./crop_m4/I00004.png,./crop_h4/I00004.png,8T43418,, 
+488,./crop_m4/I00005.png,./crop_m4/I00005.png,LL435JG,,9B5 36
+489,./crop_m4/I00005.png,./crop_h4/I00005.png,LL435JG,,kSS JG
+490,./crop_m4/I00006.png,./crop_m4/I00006.png,8T32290,,a 
+491,./crop_m4/I00006.png,./crop_h4/I00006.png,8T32290,,[ 
+492,./crop_m4/I00007.png,./crop_m4/I00007.png,6B48927,,6B4 8927
+493,./crop_m4/I00007.png,./crop_h4/I00007.png,6B48927,,6B4 8927
+494,./crop_m4/I00008.png,./crop_m4/I00008.png,B13AEB,, !B 13 EB 
+495,./crop_m4/I00008.png,./crop_h4/I00008.png,B13AEB,,B13 7E8
+496,./crop_m4/I00009.png,./crop_m4/I00009.png,9B65431,,9B6 5k31'
+497,./crop_m4/I00009.png,./crop_h4/I00009.png,9B65431,,Es 54317!
+498,./crop_m4/I00010.png,./crop_m4/I00010.png,FMR4437,,FMR 44-37
+499,./crop_m4/I00010.png,./crop_h4/I00010.png,FMR4437,,FMR 44-37
+500,./crop_m4/I00011.png,./crop_m4/I00011.png,3M46918,,l 
+501,./crop_m4/I00011.png,./crop_h4/I00011.png,3M46918,, 73W. 7 6918 
+502,./crop_m4/I00012.png,./crop_m4/I00012.png,8B70688,,87' 0688
+503,./crop_m4/I00012.png,./crop_h4/I00012.png,8B70688,,8B7 0688
+504,./crop_m4/I00013.png,./crop_m4/I00013.png,1BC5191,,1B6 5191
+505,./crop_m4/I00013.png,./crop_h4/I00013.png,1BC5191,,1BC 5191
+506,./crop_m4/I00014.png,./crop_m4/I00014.png,1BC0525,, l 180 0525 
+507,./crop_m4/I00014.png,./crop_h4/I00014.png,1BC0525,, ! 18C 0525 
+508,./crop_m4/I00015.png,./crop_m4/I00015.png,3B37902,,3B3 7902
+509,./crop_m4/I00015.png,./crop_h4/I00015.png,3B37902,,0B3 7902]
+510,./crop_m4/I00016.png,./crop_m4/I00016.png,3B88729,,3B8 8729
+511,./crop_m4/I00016.png,./crop_h4/I00016.png,3B88729,,3B8 78729
+512,./crop_m4/I00017.png,./crop_m4/I00017.png,1BB8887,,1B8 8887
+513,./crop_m4/I00017.png,./crop_h4/I00017.png,1BB8887,,BB 8887
+514,./crop_m4/I00018.png,./crop_m4/I00018.png,5B97425,,5B9 7425
+515,./crop_m4/I00018.png,./crop_h4/I00018.png,5B97425,,5B9 7425
+516,./crop_m4/I00019.png,./crop_m4/I00019.png,4B42029,,4B4 2029
+517,./crop_m4/I00019.png,./crop_h4/I00019.png,4B42029,,4B4 2029
+518,./crop_m4/I00020.png,./crop_m4/I00020.png,1B87819,,1B8 7819
+519,./crop_m4/I00020.png,./crop_h4/I00020.png,1B87819,,1B8 7819
+520,./crop_m4/I00021.png,./crop_m4/I00021.png,5B97425,,SBS 7425
+521,./crop_m4/I00021.png,./crop_h4/I00021.png,5B97425,,5B9 7425
+522,./crop_m4/I00022.png,./crop_m4/I00022.png,5B29670,,5B2 9670
+523,./crop_m4/I00022.png,./crop_h4/I00022.png,5B29670,,5B2 9670
+524,./crop_m4/I00023.png,./crop_m4/I00023.png,7B27150,,7B2 7150
+525,./crop_m4/I00023.png,./crop_h4/I00023.png,7B27150,,7B2 7150
+526,./crop_m4/I00024.png,./crop_m4/I00024.png,4AT7962,,HAT 7962
+527,./crop_m4/I00024.png,./crop_h4/I00024.png,4AT7962,,AT 7962
+528,./crop_m4/I00025.png,./crop_m4/I00025.png,7B08199,,7B0 8199
+529,./crop_m4/I00025.png,./crop_h4/I00025.png,7B08199,,7BO 8199
+530,./crop_m4/I00026.png,./crop_m4/I00026.png,7B14156,,7B1 4156
+531,./crop_m4/I00026.png,./crop_h4/I00026.png,7B14156,,7B1 4156
+532,./crop_m4/I00027.png,./crop_m4/I00027.png,5M56740,, 
+533,./crop_m4/I00027.png,./crop_h4/I00027.png,5M56740,, 
+534,./crop_m4/I00028.png,./crop_m4/I00028.png,5M56740,,5M5 6740
+535,./crop_m4/I00028.png,./crop_h4/I00028.png,5M56740,,515 76149
+536,./crop_m4/I00029.png,./crop_m4/I00029.png,7B14156,,7B1 4155
+537,./crop_m4/I00029.png,./crop_h4/I00029.png,7B14156,,7B1 4156
+538,./crop_m4/I00030.png,./crop_m4/I00030.png,9T33663,,9T3 3663
+539,./crop_m4/I00030.png,./crop_h4/I00030.png,9T33663,,9T3 3563
+540,./crop_m4/I00031.png,./crop_m4/I00031.png,B8547,," 13 ,, . 8547, "
+541,./crop_m4/I00031.png,./crop_h4/I00031.png,B8547,," 53 , 8547 "
+542,./crop_m4/I00032.png,./crop_m4/I00032.png,7B31505,,F 
+543,./crop_m4/I00032.png,./crop_h4/I00032.png,7B31505,,' 
+544,./crop_m4/I00033.png,./crop_m4/I00033.png,DT612BC,,J 
+545,./crop_m4/I00033.png,./crop_h4/I00033.png,DT612BC,,J 
+546,./crop_m4/I00034.png,./crop_m4/I00034.png,7B32443,,7 
+547,./crop_m4/I00034.png,./crop_h4/I00034.png,7B32443,,7B3 2443
+548,./crop_m4/I00035.png,./crop_m4/I00035.png,7B30332,,7B3 0332
+549,./crop_m4/I00035.png,./crop_h4/I00035.png,7B30332,, 7 B3 0332 
+550,./crop_m4/I00036.png,./crop_m4/I00036.png,1BD4657,,1B0 4657
+551,./crop_m4/I00036.png,./crop_h4/I00036.png,1BD4657,,1B0 4657
+552,./crop_m4/I00037.png,./crop_m4/I00037.png,6B28800,,6B2 8800
+553,./crop_m4/I00037.png,./crop_h4/I00037.png,6B28800,,6B2 8800
+554,./crop_m4/I00038.png,./crop_m4/I00038.png,3T16754,,3T1 6754
+555,./crop_m4/I00038.png,./crop_h4/I00038.png,3T16754,,3T1 6754
+556,./crop_m4/I00039.png,./crop_m4/I00039.png,BMZ0815,,BHZ 08-15'
+557,./crop_m4/I00039.png,./crop_h4/I00039.png,BMZ0815,,BNZ 0845'
+558,./crop_m4/I00040.png,./crop_m4/I00040.png,3B95265,,3B9 5265
+559,./crop_m4/I00040.png,./crop_h4/I00040.png,3B95265,,3B9 5265
+560,./crop_m4/I00041.png,./crop_m4/I00041.png,6B23451,,6B2 3451]
+561,./crop_m4/I00041.png,./crop_h4/I00041.png,6B23451,, E 682 34751 I 
+562,./crop_m4/I00042.png,./crop_m4/I00042.png,9B54817,, 
+563,./crop_m4/I00042.png,./crop_h4/I00042.png,9B54817,, 
+564,./crop_m4/I00043.png,./crop_m4/I00043.png,8B10162,,BB1 0162
+565,./crop_m4/I00043.png,./crop_h4/I00043.png,8B10162,,8B1 0182
+566,./crop_m4/I00044.png,./crop_m4/I00044.png,3B48296,,3B4 8296
+567,./crop_m4/I00044.png,./crop_h4/I00044.png,3B48296,,3B4 8296
+568,./crop_m4/I00045.png,./crop_m4/I00045.png,2Z96418,,ZZQ 6418
+569,./crop_m4/I00045.png,./crop_h4/I00045.png,2Z96418,,2Z9 6277778
+570,./crop_m4/I00046.png,./crop_m4/I00046.png,1.79769313486232E+308,,2E7 3609
+571,./crop_m4/I00046.png,./crop_h4/I00046.png,1.79769313486232E+308,,2E7 3609
+572,./crop_m4/I00047.png,./crop_m4/I00047.png,8B10732,,"BM"" 8T37"
+573,./crop_m4/I00047.png,./crop_h4/I00047.png,8B10732,,BBT 8T31
+574,./crop_m4/I00048.png,./crop_m4/I00048.png,BZE7277,,BZE 72-77
+575,./crop_m4/I00048.png,./crop_h4/I00048.png,BZE7277,, W71 7: w 
+576,./crop_m4/I00049.png,./crop_m4/I00049.png,9B43101,,I'n 3101
+577,./crop_m4/I00049.png,./crop_h4/I00049.png,9B43101,,9B4 3101
+578,./crop_m4/I00050.png,./crop_m4/I00050.png,4B01832,,1B* 4341
+579,./crop_m4/I00050.png,./crop_h4/I00050.png,4B01832,, 
+580,./crop_m4/I00051.png,./crop_m4/I00051.png,1B07846,, 
+581,./crop_m4/I00051.png,./crop_h4/I00051.png,1B07846,, 
+582,./crop_m4/I00052.png,./crop_m4/I00052.png,4B56396,,4B5 6396
+583,./crop_m4/I00052.png,./crop_h4/I00052.png,4B56396,, E 4.95 539:7; 
+584,./crop_m4/I00053.png,./crop_m4/I00053.png,9B78701,,9B7 8701
+585,./crop_m4/I00053.png,./crop_h4/I00053.png,9B78701,,9B7 8701
+586,./crop_m4/I00054.png,./crop_m4/I00054.png,BZJ2909,,BL) 73-09
+587,./crop_m4/I00054.png,./crop_h4/I00054.png,BZJ2909,,BL) 29-09
+588,./crop_m4/I00055.png,./crop_m4/I00055.png,9B46988,,9B4 6988
+589,./crop_m4/I00055.png,./crop_h4/I00055.png,9B46988,,9B4 6988
+590,./crop_m4/I00056.png,./crop_m4/I00056.png,5H85564,,SHB 5564
+591,./crop_m4/I00056.png,./crop_h4/I00056.png,5H85564,,SHB 5564;
+592,./crop_m4/I00057.png,./crop_m4/I00057.png,3AJ8930,,3AJ 8930
+593,./crop_m4/I00057.png,./crop_h4/I00057.png,3AJ8930,,3AJ 8930
+594,./crop_m4/I00058.png,./crop_m4/I00058.png,BZ04966,,3Z0 49-66
+595,./crop_m4/I00058.png,./crop_h4/I00058.png,BZ04966,, 320 49-66 . 
+596,./crop_m4/I00059.png,./crop_m4/I00059.png,B8121,,!B 8121
+597,./crop_m4/I00059.png,./crop_h4/I00059.png,B8121,,!B 8121
+598,./crop_m4/I00060.png,./crop_m4/I00060.png,4B83172,,8B 3172
+599,./crop_m4/I00060.png,./crop_h4/I00060.png,4B83172,,4B8 3172
+600,./crop_m4/I00061.png,./crop_m4/I00061.png,1BI1710,,1B! 1710
+601,./crop_m4/I00061.png,./crop_h4/I00061.png,1BI1710,,1B! 1710
+602,./crop_m4/I00062.png,./crop_m4/I00062.png,3B60832,,3B6 0832'
+603,./crop_m4/I00062.png,./crop_h4/I00062.png,3B60832,, r33 6 6532-] 
+604,./crop_m4/I00063.png,./crop_m4/I00063.png,2B45270,, ~ 284 5270 
+605,./crop_m4/I00063.png,./crop_h4/I00063.png,2B45270,,2B4 5270
+606,./crop_m4/I00064.png,./crop_m4/I00064.png,6B84949,,E 
+607,./crop_m4/I00064.png,./crop_h4/I00064.png,6B84949,,"3B"" 4949"
+608,./crop_m4/I00065.png,./crop_m4/I00065.png,6B84949,,5B8 4949
+609,./crop_m4/I00065.png,./crop_h4/I00065.png,6B84949,,6B8 49329
+610,./crop_m4/I00066.png,./crop_m4/I00066.png,3B75763,,3B7 5763
+611,./crop_m4/I00066.png,./crop_h4/I00066.png,3B75763,,3B7 5763
+612,./crop_m4/I00067.png,./crop_m4/I00067.png,8T52099,, 3T5 ' 2099 
+613,./crop_m4/I00067.png,./crop_h4/I00067.png,8T52099,,BTS 2099
+614,./crop_m4/I00068.png,./crop_m4/I00068.png,2AB5896,,2AB 5896
+615,./crop_m4/I00068.png,./crop_h4/I00068.png,2AB5896,, F ZAB 5895 
+616,./crop_m4/I00069.png,./crop_m4/I00069.png,4B46694,,ABA 6697
+617,./crop_m4/I00069.png,./crop_h4/I00069.png,4B46694,, * LBL 689A 
+618,./crop_m4/I00070.png,./crop_m4/I00070.png,4B84489,,4B8 4489
+619,./crop_m4/I00070.png,./crop_h4/I00070.png,4B84489,,8B 4489
+620,./crop_m4/I00071.png,./crop_m4/I00071.png,BZN1065,,2/] 10-65
+621,./crop_m4/I00071.png,./crop_h4/I00071.png,BZN1065,, [BZIV 10-55 . 
+622,./crop_m4/I00072.png,./crop_m4/I00072.png,2AN1991,,MAN 1997
+623,./crop_m4/I00072.png,./crop_h4/I00072.png,2AN1991,,2AM 1997
+624,./crop_m4/I00073.png,./crop_m4/I00073.png,SI625BC,,[ 
+625,./crop_m4/I00073.png,./crop_h4/I00073.png,SI625BC,, ~S l 6756? 
+626,./crop_m4/I00074.png,./crop_m4/I00074.png,9B36205,,BB 6205
+627,./crop_m4/I00074.png,./crop_h4/I00074.png,9B36205,, 593 3 _5_2_0_5_ 
+628,./crop_m4/I00075.png,./crop_m4/I00075.png,9B13198,,9B1 3198
+629,./crop_m4/I00075.png,./crop_h4/I00075.png,9B13198,,9B1 3198
+630,./crop_m4/I00076.png,./crop_m4/I00076.png,8B68508,,8B6 8508
+631,./crop_m4/I00076.png,./crop_h4/I00076.png,8B68508,, 
+632,./crop_m4/I00077.png,./crop_m4/I00077.png,8B68508,,8B6 8508
+633,./crop_m4/I00077.png,./crop_h4/I00077.png,8B68508,, 
+634,./crop_m4/I00078.png,./crop_m4/I00078.png,9B14541,, 
+635,./crop_m4/I00078.png,./crop_h4/I00078.png,9B14541,,9B1 4541
+636,./crop_m4/I00079.png,./crop_m4/I00079.png,BZ05042,,BIB 5042
+637,./crop_m4/I00079.png,./crop_h4/I00079.png,BZ05042,, 
+638,./crop_m4/I00080.png,./crop_m4/I00080.png,BZI0346,,BU 03-46
+639,./crop_m4/I00080.png,./crop_h4/I00080.png,BZI0346,,BU 0346
+640,./crop_m4/I00081.png,./crop_m4/I00081.png,3B30411,,3B3 0411
+641,./crop_m4/I00081.png,./crop_h4/I00081.png,3B30411,,3B3 0411
+642,./crop_m4/I00082.png,./crop_m4/I00082.png,6B48288,,BBL 8288
+643,./crop_m4/I00082.png,./crop_h4/I00082.png,6B48288,,BBL 8288_
+644,./crop_m4/I00083.png,./crop_m4/I00083.png,9B85289,,SBB 5289
+645,./crop_m4/I00083.png,./crop_h4/I00083.png,9B85289,,3B8 5289
+646,./crop_m4/I00084.png,./crop_m4/I00084.png,2B90178,,2B9 0178
+647,./crop_m4/I00084.png,./crop_h4/I00084.png,2B90178,,2B9 0178'
+648,./crop_m4/I00085.png,./crop_m4/I00085.png,7B59839,,7B5 9839
+649,./crop_m4/I00085.png,./crop_h4/I00085.png,7B59839,,7B5 9839
+650,./crop_m4/I00086.png,./crop_m4/I00086.png,7B11123,,"Q}, 1123"
+651,./crop_m4/I00086.png,./crop_h4/I00086.png,7B11123,," 17:31,,1123,"

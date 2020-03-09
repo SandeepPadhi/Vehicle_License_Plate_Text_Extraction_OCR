@@ -258,15 +258,15 @@ def OCR_Analyser(path,imageno):
     image=get_grayscale(image)
     avgthresh=findavg(image)
 
-   
-    cv2.imshow('1-GrayScale:'+str(imageno),image)
-    cv2.waitKey(0)
+   #1
+    #cv2.imshow('1-GrayScale:'+str(imageno),image)
+    #cv2.waitKey(0)
 
     imagethresh=thresholding(image,avgthresh)
     imagethresh=opening(imagethresh)
-    
-    cv2.imshow('2-Threshold:'+str(imageno),imagethresh)
-    cv2.waitKey(0)
+    #2
+    #cv2.imshow('2-Threshold:'+str(imageno),imagethresh)
+    #cv2.waitKey(0)
     c=image
     contours, hierarchy = cv2.findContours(imagethresh.copy(),cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
    
@@ -284,9 +284,9 @@ def OCR_Analyser(path,imageno):
 
     c = max(contours, key = cv2.contourArea)
     cv2.drawContours(imageoriginal, c, -1, (0,255,0), 3)
-    
-    cv2.imshow('3-Contours:'+str(imageno),imageoriginal)
-    cv2.waitKey(0)
+    #3
+    #cv2.imshow('3-Contours:'+str(imageno),imageoriginal)
+    #cv2.waitKey(0)
     
 
 
@@ -338,9 +338,9 @@ def OCR_Analyser(path,imageno):
     custom_config = r'--oem '+str(oem)+' --psm '+str(psm)+'-c tessedit_char_whitelist=012345679abcdefghijklmnopqrstuvwlyz tessedit_char_blacklist=.-!/'
     value = pytesseract.image_to_string(imageproc, lang='eng', config=custom_config)
     value=value.encode('ascii','ignore')
-    
-    cv2.imshow('4 - OCRImage:'+str(imageno),imageproc)
-    cv2.waitKey(0)
+    #4
+    #cv2.imshow('4 - OCRImage:'+str(imageno),imageproc)
+    #cv2.waitKey(0)
     value=value.split()
     finalresult=[]
     
@@ -391,16 +391,19 @@ pathnew=pathnew+'/'+Image_Folder
 no_of_images=len(os.listdir(pathnew))
 print("Number of images in directory is ",no_of_images)
 
-
+'''
 #Loop below will through all the images in folder and extract text
 for imageno in range(0,no_of_images):
-    print("IMAGE NUMBER:",imageno)
-    path=getpath(Image_Folder,imageno)
+    #print("IMAGE NUMBER:",imageno)
+    #path=str(df['imagepath'])
+    #path=getpath(Image_Folder,imageno)
     result,imageproc=OCR_Analyser(path,imageno)
-    print("The text on template is ",result)
+    #print("The text on template is ",result)
+    #df.set_value(imageno, "train", result)
+    df['Output'][imageno]=result
 
-    print()
-    print()
+    #print()
+    #print()
     #cv2.imshow('finalimage2',imageproc)
     #cv2.waitKey(0)
 
@@ -425,4 +428,4 @@ for imageno in range(0,len(pathAddress)):
 
 df.to_csv('Outval2.csv')
 
-'''
+
